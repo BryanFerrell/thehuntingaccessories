@@ -25,7 +25,7 @@ the Markdown source for the article text on this page here:
 <http://daringfireball.net/projects/markdown/index.text>
 
 How about <this><>?
-<this>: http://www.google.com
+<>: http://www.google.com
 
 Let me check! Can't wait to see it. It is soooo much fun!
 
